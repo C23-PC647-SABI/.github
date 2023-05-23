@@ -24,3 +24,11 @@ Hello everyone, we are from **C23-PC647**. We consist of 6 people and here is a 
 
 ## Theme 📖
 Education, Learning, and Personal Development
+
+<br>
+
+## Design 🎨
+<a href="https://www.figma.com/file/og6YrEiuUxkzTqKmq8ElQf/SABI?type=design&node-id=0%3A1&t=PEnx3zpeaP7X9qac-1">Link design figma</a>
+
+<br>
+
