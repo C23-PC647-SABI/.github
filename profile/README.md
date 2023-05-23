@@ -1,7 +1,7 @@
 <h1 align="center"> 🫰 SABI 🤞</h1>
 <br>
 <p align="center">
-  <img src="https://github.com/C23-PC647-SABI/.github/blob/main/logo.png?raw=true">
+  <img src="https://github.com/C23-PC647-SABI/.github/blob/main/profile/logo.png?raw=true">
 </p>
 <br>
 <h3 align="center">Bangkit 2023 Product Based Capstone Project</h3>
