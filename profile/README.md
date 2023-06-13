@@ -30,15 +30,16 @@ Hello everyone, we are from **C23-PC647**. We consist of 6 people and here is a 
 ## Camera Detection ✋
 <br>
 <p align="center">
-  <img src="../profile/SAHABAT BAHASA ISYARAT (1).giff">
+  <img src="../profile/SAHABAT BAHASA ISYARAT (1).png">
 </p>
 <br>
 
 ## Dictonary 📖
 <br>
 <p align="center">
-  <img src="../profile/SAHABAT BAHASA ISYARAT.gif">
- <br>
+  <img src="../profile/SAHABAT BAHASA ISYARAT (2).png">
+</p>
+<br>
 
 ## Theme 📖
 Education, Learning, and Personal Development
