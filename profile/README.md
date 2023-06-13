@@ -20,20 +20,25 @@ Hello everyone, we are from **C23-PC647**. We consist of 6 people and here is a 
 | Umy Namiroh | C361DSY0706  | Cloud Computing | Universitas Terbuka |
 | Albertus Ivan Martino | A360DSX3490 | Mobile Developer | Telkom University |
 
-<br>
 
 ## What is SABI? 👋
 <p align="center">
   <img src="../profile/SAHABAT BAHASA ISYARAT.png">
 </p>
 
+
+## Camera Detection ✋
 <br>
 <p align="center">
   <img src="../profile/SAHABAT BAHASA ISYARAT.gif">
 </p>
+<br>
+
+## Dictonary 📖
+<br>
 <p align="center">
-  <img src="../profile/SAHABAT BAHASA ISYARAT (1).png">
-</p>
+  <img src="../profile/SAHABAT BAHASA ISYARAT.gif">
+ <br>
 
 ## Theme 📖
 Education, Learning, and Personal Development
