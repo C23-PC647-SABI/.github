@@ -19,31 +19,22 @@ Hello everyone, we are from **C23-PC647**. We consist of 6 people and here is a 
 | Adila Nuraini Anisha | C125DKY4671  | Cloud Computing | UIN Syarif Hidayatullah Jakarta |
 | Umy Namiroh | C361DSY0706  | Cloud Computing | Universitas Terbuka |
 | Albertus Ivan Martino | A360DSX3490 | Mobile Developer | Telkom University |
-
-
-## What is SABI? 👋
-<p align="center">
-  <img src="../profile/SAHABAT BAHASA ISYARAT.png" width="1920" height="1080">
-</p>
-
-
-## Camera Detection ✋
-<br>
-<p align="center">
-  <img src="../profile/SAHABAT BAHASA ISYARAT (1).png">
-</p>
-<br>
-
-## Dictonary 📖
-<br>
-<p align="center">
-  <img src="../profile/SAHABAT BAHASA ISYARAT (2).png">
-</p>
 <br>
 
 ## Theme 📖
 Education, Learning, and Personal Development
+<br>
 
+## What is SABI? 👋
+SABI is a sign language translator that presented in a mobile application<br>
+SABI makes it easy for users to understand and communicate using sign language
+<br>
+
+## Feature ✋
+- **Camera**<br>
+Detect a sign language movements by pointing the camera and get the translation results.
+- **Dictonary**<br>
+See sign language from different letters and words. You can also use the available search feature to find the word you want in sign language.
 <br>
 
 ## Design 🎨
