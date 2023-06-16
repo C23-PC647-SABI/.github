@@ -51,7 +51,7 @@ See sign language from different letters and words. You can also use the availab
 
 - **Installation**
 
-  1.  Download the APK
+  1.  <a href="http://bit.ly/sabi-v1-0-0-download">Download the APK</a>
   2.  Install the APK
 
 <br>
