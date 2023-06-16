@@ -23,18 +23,37 @@ Hello everyone, we are from **C23-PC647**. We consist of 6 people and here is a 
 
 ## Theme 📖
 Education, Learning, and Personal Development
+
 <br>
+
 
 ## What is SABI? 👋
 SABI is a sign language translator that presented in a mobile application<br>
 SABI makes it easy for users to understand and communicate using sign language
+
 <br>
+
 
 ## Feature ✋
 - **Camera**<br>
 Detect a sign language movements by pointing the camera and get the translation results.
 - **Dictonary**<br>
 See sign language from different letters and words. You can also use the available search feature to find the word you want in sign language.
+
+<br>
+
+## Getting Started 🚀
+- **Prerequisites**
+
+  1.  Android
+  2.  Internet connection
+  3.  Camera Accesibility
+
+- **Installation**
+
+  1.  Download the APK
+  2.  Install the APK
+
 <br>
 
 ## Design 🎨
