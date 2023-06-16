@@ -23,7 +23,7 @@ Hello everyone, we are from **C23-PC647**. We consist of 6 people and here is a 
 
 ## What is SABI? 👋
 <p align="center">
-  <img src="../profile/SAHABAT BAHASA ISYARAT.png">
+  <img src="../profile/SAHABAT BAHASA ISYARAT.png" width="1920" height="1080">
 </p>
 
 
